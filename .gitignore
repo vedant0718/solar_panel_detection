@@ -3,7 +3,5 @@ __pycache__/
 .DS_Store
 env/
 *.pt
-dataset/
-results/
 venv/
 .ipynb_checkpoints/
